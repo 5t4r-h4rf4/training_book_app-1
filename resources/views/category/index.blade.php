@@ -9,7 +9,7 @@
                 <div class="card-body">
                     <div class="row">
                             <div class="col-4 col-md-3 col-lg-2">
-                                <a href="{{route('category.create')}}" class="btn btn-dark btn-block mb-2"> Add Category</a>
+                                <a href="{{route('category.create')}}" class="btn btn-dark btn-block mb-2"> Add</a>
                             </div>
                     </div>
                     @if (session('status'))
